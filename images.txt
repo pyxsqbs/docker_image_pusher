@@ -1,1 +1,1 @@
---platform=linux/amd64 langgenius/dify-api:0.6.10
+--platform=linux/amd64 xprobe/xinference:latest
