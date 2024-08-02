@@ -1,1 +1,1 @@
---platform=linux/amd64 ollama/ollama:latest
+--platform=linux/amd64 elasticsearch:8.14.3
