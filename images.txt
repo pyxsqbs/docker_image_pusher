@@ -1,1 +1,1 @@
---platform=linux/amd64 elasticsearch:8.14.3
+--platform=linux/amd64 prom/prometheus
