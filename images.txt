@@ -1,4 +1,1 @@
---platform=linux/amd64 prom/alertmanager
---platform=linux/amd64 postgres:12.11
---platform=linux/amd64 prom/node-exporter
---platform=linux/amd64 vonng/pg_exporter:v0.6.1
+--platform=linux/amd64 apache/hive
