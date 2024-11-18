@@ -1,1 +1,1 @@
---platform=linux/amd64 apache/hive
+--platform=linux/amd64 apache/hive:4.0.0
