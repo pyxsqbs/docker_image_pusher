@@ -1,1 +1,1 @@
---platform=linux/amd64 ollama/ollama:0.4.2
+--platform=linux/amd64 langgenius/dify-api:0.14.2
